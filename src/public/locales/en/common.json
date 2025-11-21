@@ -1,0 +1,26 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "second": "Second",
+    "main": "Main"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "create_account": "Create account"
+  },
+  "pages": {
+    "home_title": "Welcome to the Demo Project",
+    "home_description": "This is a short description of the project.",
+    "about_title": "About the Project",
+    "about_description": "About page. Any demo project description:",
+    "block1": "Block 1: project information",
+    "block2": "Block 2: additional details", 
+    "block3": "Block 3: contacts or description"
+  },
+  "forms": {
+    "email_placeholder": "Email"
+  }
+}
